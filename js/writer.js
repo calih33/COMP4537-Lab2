@@ -1,3 +1,5 @@
+// use of AI 
+
 let notesArray = [];
 
 function saveNotes() {

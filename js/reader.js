@@ -1,3 +1,5 @@
+// use of AI. 
+
 document.getElementById("back-btn").innerText = UI_MESSAGES.backToIndex;
 document.title = UI_MESSAGES.readerTitle;
 
